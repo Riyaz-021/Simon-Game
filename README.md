@@ -32,6 +32,15 @@ A web-based implementation of the classic "Simon Game." This game tests the play
 - **app.js**: The JavaScript file containing the logic that powers the game.
 
 
+## How to Play
+
+- **Step1**: Press any key to start the game.
+- **Step2**: Click on the button which flashed.
+- **Step3**: When the new button flashes click the previous button which flashed and then click the button which just flashed.
+- **Step4**: Continue this process without missing the sequence.
+- **Step5**: When you miss the sequence, a red light will flash across the screen and will display your score and you can press any key to restart the game.
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
